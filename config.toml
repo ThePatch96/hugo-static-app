@@ -1,0 +1,4 @@
+baseURL = 'http://patricksite.org/'
+languageCode = 'en-uk'
+title = 'Patricks Site'
+theme = 'ananke'
